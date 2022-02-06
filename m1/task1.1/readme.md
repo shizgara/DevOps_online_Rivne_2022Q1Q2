@@ -1,5 +1,4 @@
 # I have completed all the points of this task!
-***
 
 When I tried to merge the styles branch into develop, **I had a conflict**, so I had to fix it, and ***I did***. If something does not meet the requirements of the task, I am ready to repeat or correct the task.
 ***
