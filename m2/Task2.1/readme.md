@@ -47,4 +47,4 @@
 
 ![3](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m2/Task2.1/img/3.2-4.PNG)
 ![3](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m2/Task2.1/img/3.5-6.PNG)
-![3](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m2/Task2.1/img/3.7PNG)
+![3](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m2/Task2.1/img/3.7.PNG)
