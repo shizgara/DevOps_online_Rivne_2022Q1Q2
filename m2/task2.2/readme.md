@@ -1,36 +1,51 @@
 # Task 2.2
 
-1.4 
-![1.2-1.5](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m2/Task2.1/img/1.2-1.5.PNG)
+4 
+![1.4](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m2/task2.2/img/4.PNG
 
-1.6 I cloned an existing VM1 by creating a VM2 
-![1.6](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m2/Task2.1/img/1.6.PNG)
+5 
+![1.5](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m2/task2.2/img/5.PNG)
 
-1.7 I have created a group of two VM
-![1.7](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m2/Task2.1/img/1.7.PNG)
+6 
+![1.6](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m2/task2.2/img/6_1.PNG)
+![1.6](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m2/task2.2/img/6_2.PNG)
 
-1.8 For VM1, changed its state, taked several different snapshots
-![1.8](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m2/Task2.1/img/1.8.PNG)
+7 
+![1.7](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m2/task2.2/img/7_1.PNG)
+![1.7](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m2/task2.2/img/7_2.PNG)
+![1.7](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m2/task2.2/img/7_3.PNG)
 
-1.9 Export VM, Import VM 
-![1.9](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m2/Task2.1/img/1.9.PNG)
-![1.9](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m2/Task2.1/img/1.9.1.PNG)
+8 
+![1.8](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m2/task2.2/img/8.PNG)
 
-2.2 Configured the USB to connect the USB ports of the host machine to the VM 
-![2.2](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m2/Task2.1/img/2.1.PNG)
+9
+![1.9](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m2/task2.2/img/9.PNG)
 
-2.3 Configured a shared folder to exchange data between the virtual machine and the host 
-![2.3](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m2/Task2.1/img/2.2.PNG)
+10 
+![1.10](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m2/task2.2/img/10_1.PNG)
+![1.10](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m2/task2.2/img/10_2.PNG)
+![1.10](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m2/task2.2/img/10_3.PNG)
+![1.10](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m2/task2.2/img/10_4.PNG)
+![1.10](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m2/task2.2/img/10_5.PNG)
+![1.10](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m2/task2.2/img/10_6.PNG)
 
-2.4 Configured different network modes for VM1, VM2. Check the connection between VM1, VM2, Host, Internet for different network modes. Maked a table of possible connections
-![2.4](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m2/Task2.1/img/2.4.png)
+11 
+![1.11](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m2/task2.2/img/11.PNG)
 
-3 Work with CLI through VBoxManage CLI1 CLI2
-![3](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m2/Task2.1/img/3.1.PNG)
-![3](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m2/Task2.1/img/3.2.PNG)
+12 
+![1.12](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m2/task2.2/img/12_1.PNG)
+![1.12](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m2/task2.2/img/12_2.PNG)
 
-# PART 3. WORK WITH VAGRANT
+13 
+![1.13](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m2/task2.2/img/13_1.png)
+![1.13](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m2/task2.2/img/13_2.png)
+![1.13](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m2/task2.2/img/13_3.png)
+![1.13](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m2/task2.2/img/13_4.png)
+![1.13](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m2/task2.2/img/13_5.png)
 
-![3](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m2/Task2.1/img/3.2-4.PNG)
-![3](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m2/Task2.1/img/3.5-6.PNG)
-![3](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m2/Task2.1/img/3.7.PNG)
+14 
+![1.14](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m2/task2.2/img/14_1.png)
+![1.14](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m2/task2.2/img/14_2.png)
+
+15
+[Web](http://bucket.task.2.2.12.s3-website-us-east-1.amazonaws.com/)
