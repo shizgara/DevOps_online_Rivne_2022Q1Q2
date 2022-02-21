@@ -1,7 +1,7 @@
 # Task 2.2
 
 4 
-![1.4](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m2/task2.2/img/4.PNG
+![1.4](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m2/task2.2/img/4.PNG)
 
 5 
 ![1.5](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m2/task2.2/img/5.PNG)
