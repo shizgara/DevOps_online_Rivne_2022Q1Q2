@@ -10,8 +10,8 @@
 
 ### Additional task
 
-![1]https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m3/task3.1/1.PNG)
-![2]https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m3/task3.1/2.PNG)
-![3]https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m3/task3.1/3.PNG)
+![1](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m3/task3.1/1.PNG)
+![2](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m3/task3.1/2.PNG)
+![3](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m3/task3.1/3.PNG)
 
 
