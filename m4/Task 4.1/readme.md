@@ -16,6 +16,13 @@
 
 ![4](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m4/Task%204.1/img/Part%201/4.PNG)
 
+#### 5. I have become familiar with the Linux help system and the man and info commands. I have used keys -f , -h for chfn command. They changed full name and home phone . And for ps command i have used keys -f and -l. They showed "long format" of processes
+
+![5.1](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m4/Task%204.1/img/Part%201/5_1.PNG)
+![5.2](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m4/Task%204.1/img/Part%201/5_2.PNG)
+![5.3](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m4/Task%204.1/img/Part%201/5_3.PNG)
+![5.3](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m4/Task%204.1/img/Part%201/5_4.PNG)
+
 # PART 2. WORK WITH VIRTUALBOX
 
 1.2 I have downloaded the latest stable version of VirtualBox from the official VirtualBox site and installed on the workplace. Downloaded the latest stable version of Ubuntu Desktop from the official site. Created VM1 and installed Ubuntu using the instructions . Called the machine - Shizgara Gurskyi
