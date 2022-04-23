@@ -69,4 +69,4 @@
 
 #### 17. What file attributes should be present in the command script?
 
-![17](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m4/Task%204.1/img/Part%202/10.PNG)
+![17](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m4/Task%204.2/img/17true.PNG)
