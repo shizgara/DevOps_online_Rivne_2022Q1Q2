@@ -95,16 +95,6 @@
 ![8.1](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m4/Task%204.1/img/Part%202/8_1.PNG)
 ![8.2](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m4/Task%204.1/img/Part%202/8_2.PNG)
 
-#### 9. I have determined which partitions are mounted in the system, as well as the types of these partitions
-
-![8.1](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m4/Task%204.1/img/Part%202/8_1.PNG)
-![8.2](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m4/Task%204.1/img/Part%202/8_2.PNG)
-
-#### 8. I have determined which partitions are mounted in the system, as well as the types of these partitions
-
-![8.1](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m4/Task%204.1/img/Part%202/8_1.PNG)
-![8.2](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m4/Task%204.1/img/Part%202/8_2.PNG)
-
 #### 9. I have counted the number of lines containing a .bash_history
 
 ![9](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m4/Task%204.1/img/Part%202/9.PNG)
