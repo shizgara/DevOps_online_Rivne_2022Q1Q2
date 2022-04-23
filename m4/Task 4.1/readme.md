@@ -2,9 +2,13 @@
 ### 1,2. I logged in to the system as root. I have used the "passwd" command to changed the password. Examined the basic parameters of the command. This command changed /etc/shadow file
 
 ![1.1-1.2](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m4/Task%204.1/img/Part%201/1-2.PNG)
+![2.2](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m4/Task%204.1/img/Part%201/2_2.PNG)
   
 
-### Briefly describe the main differences of the most popular hypervisors
+### 3. I have determined the users registered in the system(/etc/passwd), as well as what commands they executed
+
+![3.1](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m4/Task%204.1/img/Part%201/3_1.PNG)
+![3.2](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m4/Task%204.1/img/Part%201/3_2.PNG)
 
  - ##### VMware
     VirtualBox is a powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use. Not only is VirtualBox an extremely feature rich, high performance product for enterprise customers, it is also the only professional solution that is freely available as Open Source Software under the terms of the GNU General Public License. VirtualBox runs on Windows, Linux, Macintosh, and Solaris hosts and supports a large number of guest operating systems including but not limited to Windows (NT 4.0, 2000, XP, Server 2003, Vista, Windows 7, Windows 8, Windows 10), DOS/Windows 3.x, Linux (2.4, 2.6, 3.x and 4.x), Solaris and OpenSolaris, OS/2, and OpenBSD
