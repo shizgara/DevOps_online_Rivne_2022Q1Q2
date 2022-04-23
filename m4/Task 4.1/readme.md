@@ -21,7 +21,23 @@
 ![5.1](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m4/Task%204.1/img/Part%201/5_1.PNG)
 ![5.2](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m4/Task%204.1/img/Part%201/5_2.PNG)
 ![5.3](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m4/Task%204.1/img/Part%201/5_3.PNG)
-![5.3](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m4/Task%204.1/img/Part%201/5_4.PNG)
+![5.4](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m4/Task%204.1/img/Part%201/5_4.PNG)
+
+#### 6. I was explore the more and less commands using the help system. Than I viewed the contents of files .bash* using this commands.
+
+![6.1](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m4/Task%204.1/img/Part%201/6_1.PNG)
+![6.2](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m4/Task%204.1/img/Part%201/6_2.PNG)
+![6.3](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m4/Task%204.1/img/Part%201/6_3.PNG)
+![6.4](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m4/Task%204.1/img/Part%201/6_4.PNG)
+
+#### 7. I have determined the last logon time for all users
+
+![7](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m4/Task%204.1/img/Part%201/7.PNG)
+
+#### 8. I have listed the contents of the home directory using the ls command, defines its files and directories
+
+![8.1](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m4/Task%204.1/img/Part%201/8.PNG)
+![8.2](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m4/Task%204.1/img/Part%201/8_1.PNG)
 
 # PART 2. WORK WITH VIRTUALBOX
 
