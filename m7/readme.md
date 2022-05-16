@@ -41,11 +41,11 @@
 
 ## Part 2
 
-#### 10-11 I have made backup of my database and then deleted the table
+#### 10-11. I have made backup of my database and then deleted the table
 
 ![10-11](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m7/img/part%202/10-11.PNG)
 
-#### 12. I have restore my database
+#### 12. I have restored my database
 
 ![12](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m7/img/part%202/12.PNG)
 
