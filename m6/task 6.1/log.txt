@@ -1,0 +1,244 @@
+test
+2022/05/06 16:18:46 [25079] building file list
+2022/05/06 16:18:46 [25079] sent 246 bytes  received 12 bytes  516.00 bytes/sec
+2022/05/06 16:18:46 [25079] total size is 34.01K  speedup is 131.81
+2022/05/06 16:19:26 [25089] building file list
+2022/05/06 16:19:26 [25089] sent 246 bytes  received 12 bytes  516.00 bytes/sec
+2022/05/06 16:19:26 [25089] total size is 34.01K  speedup is 131.81
+2022/05/06 16:22:39 [25136] building file list
+2022/05/06 16:22:39 [25136] created directory /home/shizgara/Scripts/HW/backupfiles
+2022/05/06 16:22:39 [25136] cd+++++++++ ./
+2022/05/06 16:22:39 [25136] >f+++++++++ 6_1.sh
+2022/05/06 16:22:39 [25136] >f+++++++++ 6_2.sh
+2022/05/06 16:22:39 [25136] >f+++++++++ 6_3.sh
+2022/05/06 16:22:39 [25136] >f+++++++++ apache_logs.txt
+2022/05/06 16:22:39 [25136] >f+++++++++ backup_folder.sh
+2022/05/06 16:22:39 [25136] >f+++++++++ log.txt
+2022/05/06 16:22:39 [25136] >f+++++++++ test.sh
+2022/05/06 16:22:39 [25136] >f+++++++++ time.sh
+2022/05/06 16:22:39 [25136] sent 4.35K bytes  received 231 bytes  9.17K bytes/sec
+2022/05/06 16:22:39 [25136] total size is 34.01K  speedup is 7.42
+2022/05/06 16:25:18 [25166] building file list
+2022/05/06 16:25:18 [25166] .d..t...... ./
+2022/05/06 16:25:18 [25166] >f+++++++++ test.s4
+2022/05/06 16:25:18 [25166] >f..t...... test.sh
+2022/05/06 16:25:18 [25166] >f+++++++++ test.txt
+2022/05/06 16:25:18 [25166] cd+++++++++ test1/
+2022/05/06 16:25:18 [25166] cd+++++++++ test2/
+2022/05/06 16:25:18 [25166] cd+++++++++ test3/
+2022/05/06 16:25:18 [25166] sent 623 bytes  received 92 bytes  1.43K bytes/sec
+2022/05/06 16:25:18 [25166] total size is 34.01K  speedup is 47.56
+2022/05/06 16:26:51 [25184] building file list
+2022/05/06 16:26:51 [25184] .d..t...... ./
+2022/05/06 16:26:51 [25184] sent 202 bytes  received 19 bytes  442.00 bytes/sec
+2022/05/06 16:26:51 [25184] total size is 33.91K  speedup is 153.44
+2022/05/06 16:28:01 [25188] building file list
+2022/05/06 16:28:01 [25188] sent 195 bytes  received 12 bytes  414.00 bytes/sec
+2022/05/06 16:28:01 [25188] total size is 33.91K  speedup is 163.82 (DRY RUN)
+2022/05/06 16:35:47 [25205] rsync  version 3.1.3  protocol version 31
+2022/05/06 16:35:47 [25205] Copyright (C) 1996-2018 by Andrew Tridgell, Wayne Davison, and others.
+2022/05/06 16:35:47 [25205] Web site: http://rsync.samba.org/
+2022/05/06 16:35:47 [25205] Capabilities:
+2022/05/06 16:35:47 [25205]     64-bit files, 64-bit inums, 64-bit timestamps, 64-bit long ints,
+2022/05/06 16:35:47 [25205]     socketpairs, hardlinks, symlinks, IPv6, batchfiles, inplace,
+2022/05/06 16:35:47 [25205]     append, ACLs, xattrs, iconv, symtimes, prealloc
+2022/05/06 16:35:47 [25205] 
+2022/05/06 16:35:47 [25205] rsync comes with ABSOLUTELY NO WARRANTY.  This is free software, and you
+2022/05/06 16:35:47 [25205] are welcome to redistribute it under certain conditions.  See the GNU
+2022/05/06 16:35:47 [25205] General Public Licence for details.
+2022/05/06 16:35:47 [25205] 
+2022/05/06 16:35:47 [25205] rsync is a file transfer program capable of efficient remote update
+2022/05/06 16:35:47 [25205] via a fast differencing algorithm.
+2022/05/06 16:35:47 [25205] 
+2022/05/06 16:35:47 [25205] Usage: rsync [OPTION]... SRC [SRC]... DEST
+2022/05/06 16:35:47 [25205]   or   rsync [OPTION]... SRC [SRC]... [USER@]HOST:DEST
+2022/05/06 16:35:47 [25205]   or   rsync [OPTION]... SRC [SRC]... [USER@]HOST::DEST
+2022/05/06 16:35:47 [25205]   or   rsync [OPTION]... SRC [SRC]... rsync://[USER@]HOST[:PORT]/DEST
+2022/05/06 16:35:47 [25205]   or   rsync [OPTION]... [USER@]HOST:SRC [DEST]
+2022/05/06 16:35:47 [25205]   or   rsync [OPTION]... [USER@]HOST::SRC [DEST]
+2022/05/06 16:35:47 [25205]   or   rsync [OPTION]... rsync://[USER@]HOST[:PORT]/SRC [DEST]
+2022/05/06 16:35:47 [25205] The ':' usages connect via remote shell, while '::' & 'rsync://' usages connect
+2022/05/06 16:35:47 [25205] to an rsync daemon, and require SRC or DEST to start with a module name.
+2022/05/06 16:35:47 [25205] 
+2022/05/06 16:35:47 [25205] Options
+2022/05/06 16:35:47 [25205]  -v, --verbose               increase verbosity
+2022/05/06 16:35:47 [25205]      --info=FLAGS            fine-grained informational verbosity
+2022/05/06 16:35:47 [25205]      --debug=FLAGS           fine-grained debug verbosity
+2022/05/06 16:35:47 [25205]      --msgs2stderr           special output handling for debugging
+2022/05/06 16:35:47 [25205]  -q, --quiet                 suppress non-error messages
+2022/05/06 16:35:47 [25205]      --no-motd               suppress daemon-mode MOTD (see manpage caveat)
+2022/05/06 16:35:47 [25205]  -c, --checksum              skip based on checksum, not mod-time & size
+2022/05/06 16:35:47 [25205]  -a, --archive               archive mode; equals -rlptgoD (no -H,-A,-X)
+2022/05/06 16:35:47 [25205]      --no-OPTION             turn off an implied OPTION (e.g. --no-D)
+2022/05/06 16:35:47 [25205]  -r, --recursive             recurse into directories
+2022/05/06 16:35:47 [25205]  -R, --relative              use relative path names
+2022/05/06 16:35:47 [25205]      --no-implied-dirs       don't send implied dirs with --relative
+2022/05/06 16:35:47 [25205]  -b, --backup                make backups (see --suffix & --backup-dir)
+2022/05/06 16:35:47 [25205]      --backup-dir=DIR        make backups into hierarchy based in DIR
+2022/05/06 16:35:47 [25205]      --suffix=SUFFIX         set backup suffix (default ~ w/o --backup-dir)
+2022/05/06 16:35:47 [25205]  -u, --update                skip files that are newer on the receiver
+2022/05/06 16:35:47 [25205]      --inplace               update destination files in-place (SEE MAN PAGE)
+2022/05/06 16:35:47 [25205]      --append                append data onto shorter files
+2022/05/06 16:35:47 [25205]      --append-verify         like --append, but with old data in file checksum
+2022/05/06 16:35:47 [25205]  -d, --dirs                  transfer directories without recursing
+2022/05/06 16:35:47 [25205]  -l, --links                 copy symlinks as symlinks
+2022/05/06 16:35:47 [25205]  -L, --copy-links            transform symlink into referent file/dir
+2022/05/06 16:35:47 [25205]      --copy-unsafe-links     only "unsafe" symlinks are transformed
+2022/05/06 16:35:47 [25205]      --safe-links            ignore symlinks that point outside the source tree
+2022/05/06 16:35:47 [25205]      --munge-links           munge symlinks to make them safer (but unusable)
+2022/05/06 16:35:47 [25205]  -k, --copy-dirlinks         transform symlink to a dir into referent dir
+2022/05/06 16:35:47 [25205]  -K, --keep-dirlinks         treat symlinked dir on receiver as dir
+2022/05/06 16:35:47 [25205]  -H, --hard-links            preserve hard links
+2022/05/06 16:35:47 [25205]  -p, --perms                 preserve permissions
+2022/05/06 16:35:47 [25205]  -E, --executability         preserve the file's executability
+2022/05/06 16:35:47 [25205]      --chmod=CHMOD           affect file and/or directory permissions
+2022/05/06 16:35:47 [25205]  -A, --acls                  preserve ACLs (implies --perms)
+2022/05/06 16:35:47 [25205]  -X, --xattrs                preserve extended attributes
+2022/05/06 16:35:47 [25205]  -o, --owner                 preserve owner (super-user only)
+2022/05/06 16:35:47 [25205]  -g, --group                 preserve group
+2022/05/06 16:35:47 [25205]      --devices               preserve device files (super-user only)
+2022/05/06 16:35:47 [25205]      --copy-devices          copy device contents as regular file
+2022/05/06 16:35:47 [25205]      --specials              preserve special files
+2022/05/06 16:35:47 [25205]  -D                          same as --devices --specials
+2022/05/06 16:35:47 [25205]  -t, --times                 preserve modification times
+2022/05/06 16:35:47 [25205]  -O, --omit-dir-times        omit directories from --times
+2022/05/06 16:35:47 [25205]  -J, --omit-link-times       omit symlinks from --times
+2022/05/06 16:35:47 [25205]      --super                 receiver attempts super-user activities
+2022/05/06 16:35:47 [25205]      --fake-super            store/recover privileged attrs using xattrs
+2022/05/06 16:35:47 [25205]  -S, --sparse                turn sequences of nulls into sparse blocks
+2022/05/06 16:35:47 [25205]      --preallocate           allocate dest files before writing them
+2022/05/06 16:35:47 [25205]  -n, --dry-run               perform a trial run with no changes made
+2022/05/06 16:35:47 [25205]  -W, --whole-file            copy files whole (without delta-xfer algorithm)
+2022/05/06 16:35:47 [25205]      --checksum-choice=STR   choose the checksum algorithms
+2022/05/06 16:35:47 [25205]  -x, --one-file-system       don't cross filesystem boundaries
+2022/05/06 16:35:47 [25205]  -B, --block-size=SIZE       force a fixed checksum block-size
+2022/05/06 16:35:47 [25205]  -e, --rsh=COMMAND           specify the remote shell to use
+2022/05/06 16:35:47 [25205]      --rsync-path=PROGRAM    specify the rsync to run on the remote machine
+2022/05/06 16:35:47 [25205]      --existing              skip creating new files on receiver
+2022/05/06 16:35:47 [25205]      --ignore-existing       skip updating files that already exist on receiver
+2022/05/06 16:35:47 [25205]      --remove-source-files   sender removes synchronized files (non-dirs)
+2022/05/06 16:35:47 [25205]      --del                   an alias for --delete-during
+2022/05/06 16:35:47 [25205]      --delete                delete extraneous files from destination dirs
+2022/05/06 16:35:47 [25205]      --delete-before         receiver deletes before transfer, not during
+2022/05/06 16:35:47 [25205]      --delete-during         receiver deletes during the transfer
+2022/05/06 16:35:47 [25205]      --delete-delay          find deletions during, delete after
+2022/05/06 16:35:47 [25205]      --delete-after          receiver deletes after transfer, not during
+2022/05/06 16:35:47 [25205]      --delete-excluded       also delete excluded files from destination dirs
+2022/05/06 16:35:47 [25205]      --ignore-missing-args   ignore missing source args without error
+2022/05/06 16:35:47 [25205]      --delete-missing-args   delete missing source args from destination
+2022/05/06 16:35:47 [25205]      --ignore-errors         delete even if there are I/O errors
+2022/05/06 16:35:47 [25205]      --force                 force deletion of directories even if not empty
+2022/05/06 16:35:47 [25205]      --max-delete=NUM        don't delete more than NUM files
+2022/05/06 16:35:47 [25205]      --max-size=SIZE         don't transfer any file larger than SIZE
+2022/05/06 16:35:47 [25205]      --min-size=SIZE         don't transfer any file smaller than SIZE
+2022/05/06 16:35:47 [25205]      --partial               keep partially transferred files
+2022/05/06 16:35:47 [25205]      --partial-dir=DIR       put a partially transferred file into DIR
+2022/05/06 16:35:47 [25205]      --delay-updates         put all updated files into place at transfer's end
+2022/05/06 16:35:47 [25205]  -m, --prune-empty-dirs      prune empty directory chains from the file-list
+2022/05/06 16:35:47 [25205]      --numeric-ids           don't map uid/gid values by user/group name
+2022/05/06 16:35:47 [25205]      --usermap=STRING        custom username mapping
+2022/05/06 16:35:47 [25205]      --groupmap=STRING       custom groupname mapping
+2022/05/06 16:35:47 [25205]      --chown=USER:GROUP      simple username/groupname mapping
+2022/05/06 16:35:47 [25205]      --timeout=SECONDS       set I/O timeout in seconds
+2022/05/06 16:35:47 [25205]      --contimeout=SECONDS    set daemon connection timeout in seconds
+2022/05/06 16:35:47 [25205]  -I, --ignore-times          don't skip files that match in size and mod-time
+2022/05/06 16:35:47 [25205]  -M, --remote-option=OPTION  send OPTION to the remote side only
+2022/05/06 16:35:47 [25205]      --size-only             skip files that match in size
+2022/05/06 16:35:47 [25205]  -@, --modify-window=NUM     set the accuracy for mod-time comparisons
+2022/05/06 16:35:47 [25205]  -T, --temp-dir=DIR          create temporary files in directory DIR
+2022/05/06 16:35:47 [25205]  -y, --fuzzy                 find similar file for basis if no dest file
+2022/05/06 16:35:47 [25205]      --compare-dest=DIR      also compare destination files relative to DIR
+2022/05/06 16:35:47 [25205]      --copy-dest=DIR         ... and include copies of unchanged files
+2022/05/06 16:35:47 [25205]      --link-dest=DIR         hardlink to files in DIR when unchanged
+2022/05/06 16:35:47 [25205]  -z, --compress              compress file data during the transfer
+2022/05/06 16:35:47 [25205]      --compress-level=NUM    explicitly set compression level
+2022/05/06 16:35:47 [25205]      --skip-compress=LIST    skip compressing files with a suffix in LIST
+2022/05/06 16:35:47 [25205]  -C, --cvs-exclude           auto-ignore files the same way CVS does
+2022/05/06 16:35:47 [25205]  -f, --filter=RULE           add a file-filtering RULE
+2022/05/06 16:35:47 [25205]  -F                          same as --filter='dir-merge /.rsync-filter'
+2022/05/06 16:35:47 [25205]                              repeated: --filter='- .rsync-filter'
+2022/05/06 16:35:47 [25205]      --exclude=PATTERN       exclude files matching PATTERN
+2022/05/06 16:35:47 [25205]      --exclude-from=FILE     read exclude patterns from FILE
+2022/05/06 16:35:47 [25205]      --include=PATTERN       don't exclude files matching PATTERN
+2022/05/06 16:35:47 [25205]      --include-from=FILE     read include patterns from FILE
+2022/05/06 16:35:47 [25205]      --files-from=FILE       read list of source-file names from FILE
+2022/05/06 16:35:47 [25205]  -0, --from0                 all *-from/filter files are delimited by 0s
+2022/05/06 16:35:47 [25205]  -s, --protect-args          no space-splitting; only wildcard special-chars
+2022/05/06 16:35:47 [25205]      --address=ADDRESS       bind address for outgoing socket to daemon
+2022/05/06 16:35:47 [25205]      --port=PORT             specify double-colon alternate port number
+2022/05/06 16:35:47 [25205]      --sockopts=OPTIONS      specify custom TCP options
+2022/05/06 16:35:47 [25205]      --blocking-io           use blocking I/O for the remote shell
+2022/05/06 16:35:47 [25205]      --stats                 give some file-transfer stats
+2022/05/06 16:35:47 [25205]  -8, --8-bit-output          leave high-bit chars unescaped in output
+2022/05/06 16:35:47 [25205]  -h, --human-readable        output numbers in a human-readable format
+2022/05/06 16:35:47 [25205]      --progress              show progress during transfer
+2022/05/06 16:35:47 [25205]  -P                          same as --partial --progress
+2022/05/06 16:35:47 [25205]  -i, --itemize-changes       output a change-summary for all updates
+2022/05/06 16:35:47 [25205]      --out-format=FORMAT     output updates using the specified FORMAT
+2022/05/06 16:35:47 [25205]      --log-file=FILE         log what we're doing to the specified FILE
+2022/05/06 16:35:47 [25205]      --log-file-format=FMT   log updates using the specified FMT
+2022/05/06 16:35:47 [25205]      --password-file=FILE    read daemon-access password from FILE
+2022/05/06 16:35:47 [25205]      --list-only             list the files instead of copying them
+2022/05/06 16:35:47 [25205]      --bwlimit=RATE          limit socket I/O bandwidth
+2022/05/06 16:35:47 [25205]      --stop-at=y-m-dTh:m     Stop rsync at year-month-dayThour:minute
+2022/05/06 16:35:47 [25205]      --time-limit=MINS       Stop rsync after MINS minutes have elapsed
+2022/05/06 16:35:47 [25205]      --outbuf=N|L|B          set output buffering to None, Line, or Block
+2022/05/06 16:35:47 [25205]      --write-batch=FILE      write a batched update to FILE
+2022/05/06 16:35:47 [25205]      --only-write-batch=FILE like --write-batch but w/o updating destination
+2022/05/06 16:35:47 [25205]      --read-batch=FILE       read a batched update from FILE
+2022/05/06 16:35:47 [25205]      --protocol=NUM          force an older protocol version to be used
+2022/05/06 16:35:47 [25205]      --iconv=CONVERT_SPEC    request charset conversion of filenames
+2022/05/06 16:35:47 [25205]      --checksum-seed=NUM     set block/file checksum seed (advanced)
+2022/05/06 16:35:47 [25205]      --noatime               do not alter atime when opening source files
+2022/05/06 16:35:47 [25205]  -4, --ipv4                  prefer IPv4
+2022/05/06 16:35:47 [25205]  -6, --ipv6                  prefer IPv6
+2022/05/06 16:35:47 [25205]      --version               print version number
+2022/05/06 16:35:47 [25205] (-h) --help                  show this help (-h is --help only if used alone)
+2022/05/06 16:35:47 [25205] 
+2022/05/06 16:35:47 [25205] Use "rsync --daemon --help" to see the daemon-mode command-line options.
+2022/05/06 16:35:47 [25205] Please see the rsync(1) and rsyncd.conf(5) man pages for full documentation.
+2022/05/06 16:35:47 [25205] See http://rsync.samba.org/ for updates, bug reports, and answers
+2022/05/06 16:35:47 [25205] rsync error: syntax or usage error (code 1) at main.c(1662) [Receiver=3.1.3]
+2022/05/06 16:36:12 [25207] building file list
+2022/05/06 16:36:12 [25207] sent 195 bytes  received 12 bytes  414.00 bytes/sec
+2022/05/06 16:36:12 [25207] total size is 33.91K  speedup is 163.82
+2022/05/06 17:45:27 [25566] building file list
+2022/05/06 17:45:27 [25566] sent 195 bytes  received 12 bytes  414.00 bytes/sec
+2022/05/06 17:45:27 [25566] total size is 33.91K  speedup is 163.82
+2022/05/06 17:47:01 [25587] building file list
+2022/05/06 17:47:01 [25587] .d..t...... ./
+2022/05/06 17:47:01 [25587] >f+++++++++ 6_1.sh
+2022/05/06 17:47:01 [25587] >f+++++++++ 6_2.sh
+2022/05/06 17:47:01 [25587] >f+++++++++ 6_3.sh
+2022/05/06 17:47:01 [25587] >f+++++++++ apache_logs.txt
+2022/05/06 17:47:01 [25587] >f+++++++++ backup_folder.sh
+2022/05/06 17:47:01 [25587] >f+++++++++ time.sh
+2022/05/06 17:47:01 [25587] sent 4.13K bytes  received 133 bytes  8.53K bytes/sec
+2022/05/06 17:47:01 [25587] total size is 33.91K  speedup is 7.95
+2022/05/06 17:48:01 [25596] building file list
+2022/05/06 17:48:01 [25596] .d..t...... ./
+2022/05/06 17:48:01 [25596] >f+++++++++ 6_1.sh
+2022/05/06 17:48:01 [25596] >f+++++++++ 6_2.sh
+2022/05/06 17:48:01 [25596] >f+++++++++ 6_3.sh
+2022/05/06 17:48:01 [25596] >f+++++++++ apache_logs.txt
+2022/05/06 17:48:01 [25596] >f+++++++++ backup_folder.sh
+2022/05/06 17:48:01 [25596] >f+++++++++ time.sh
+2022/05/06 17:48:01 [25596] sent 4.13K bytes  received 133 bytes  8.53K bytes/sec
+2022/05/06 17:48:01 [25596] total size is 33.91K  speedup is 7.95
+2022/05/06 17:49:01 [25603] building file list
+2022/05/06 17:49:01 [25603] sent 195 bytes  received 12 bytes  414.00 bytes/sec
+2022/05/06 17:49:01 [25603] total size is 33.91K  speedup is 163.82
+2022/05/06 17:50:01 [25617] building file list
+2022/05/06 17:50:01 [25617] sent 195 bytes  received 12 bytes  414.00 bytes/sec
+2022/05/06 17:50:01 [25617] total size is 33.91K  speedup is 163.82
+2022/05/06 17:51:01 [25655] building file list
+2022/05/06 17:51:01 [25655] sent 195 bytes  received 12 bytes  414.00 bytes/sec
+2022/05/06 17:51:01 [25655] total size is 33.91K  speedup is 163.82
+2022/05/06 17:52:01 [25671] building file list
+2022/05/06 17:52:01 [25671] .d..t...... ./
+2022/05/06 17:52:01 [25671] cd+++++++++ trh/
+2022/05/06 17:52:01 [25671] sent 238 bytes  received 23 bytes  522.00 bytes/sec
+2022/05/06 17:52:01 [25671] total size is 33.91K  speedup is 129.92
+2022/05/06 17:53:01 [25696] building file list
+2022/05/06 17:53:01 [25696] sent 228 bytes  received 13 bytes  482.00 bytes/sec
+2022/05/06 17:53:01 [25696] total size is 33.91K  speedup is 140.71
