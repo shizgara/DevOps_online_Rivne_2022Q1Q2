@@ -66,7 +66,7 @@
 
 ## Part 3 (MongoDB)
 
-#### 17-19 I have created a database. Useed the use command to connect to a new database. Then I have created a collection. Useed db.createCollection to create a collection. I have created some documents. Inserted a couple of documents into my collection
+#### 17-19 I have created a database.  After that i used the use command to connect to a new database. Then I have created a collection. I have used db.createCollection to create a collection. I have created some documents. Inserted a couple of documents into my collection
 
 ![17-19](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m7/img/part%203/7_3_1.PNG)
 
