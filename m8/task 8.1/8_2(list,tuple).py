@@ -1,0 +1,6 @@
+lst = input('Enter numbers ').split(',')
+print('List:' + str(lst))
+print(type(lst))
+lst2 = tuple(lst)
+print('Tuple:' + str(lst2))
+print(type(lst2))
