@@ -1,84 +1,32 @@
-# Task 7
-
-
-## Part 1
-
-#### 1-2. I have downloaded and installed  MySQL server on VM
-
-![1-2](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m7/img/part%201/1.PNG)
-
-#### 3-4. I have selected and created a database on the server through the console
-
-![3-4](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m7/img/part%201/4.PNG)
-
-#### 5. I have filled in tables
-
-![5.1](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m7/img/part%201/5_1.PNG)
-![5.2](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m7/img/part%201/5_2.PNG)
-![5.3](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m7/img/part%201/5_3.PNG)
-
-#### 6. I have constructed and executed SELECT operator with WHERE, GROUP BY and ORDER BY
-
-![6](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m7/img/part%201/6.PNG)
-
-#### 7. I executed other different SQL queries DDL, DML, DCL
-
-![7.2](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m7/img/part%201/7_1.PNG)
-![7.2](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m7/img/part%201/7_2.PNG)
-
-#### 8. I created a database of new users with different privileges
-
-![8.1](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m7/img/part%201/8_1.PNG)
-![8.2](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m7/img/part%201/8_2.PNG)
-![8.3](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m7/img/part%201/8_3.PNG)
-![8.4](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m7/img/part%201/8_4.PNG)
-
-#### 9. I made a selection from the main table DB MySQL.
-
-![9](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m7/img/part%201/9.PNG)
+# Task 8
 
 
 
-## Part 2
+#### 1. Write easy program, which will display current date and time
 
-#### 10-11. I have made backup of my database and then deleted the table
+![1](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m8/task%208.1/img/1.PNG)
 
-![10-11](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m7/img/part%202/10-11.PNG)
+#### 2. Write python program, which will accept comma-separated numbers, and then it should write tuple and list of them:
+Enter numbers: 1, 2, 7, 43, 9
+Output:
+List: [‘1’, ‘2’, ‘7’, ‘43’, ‘9’]
+Tuple: (‘1’, ‘2’, ‘7’, ‘43’, ‘9’)
 
-#### 12. I have restored my database
+![2](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m8/task%208.1/img/2.PNG)
 
-![12](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m7/img/part%202/12.PNG)
+#### 3. Write python program, which will ask file name. File should be read, and only even lines should be shown
 
-#### 13-14. I have transfered my local database to RDS AWS and connected to my database
+![3](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m8/task%208.1/img/3.PNG)
 
-![13-14.1](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m7/img/part%202/13_14_1.PNG)
-![13-14.2](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m7/img/part%202/13_14_2.PNG)
+#### 4. Write python program, which should read html document, parse it, and show it’s title
 
-#### 15. I have executed SELECT operator
+![4](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m8/task%208.1/img/4.PNG)
 
-![15](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m7/img/part%202/15.PNG)
+#### 5. Write python program, which will parse user’s text, and replace some emotions with emoji’s (Look: pip install emoji)
 
-#### 16. I executed other different SQL queries DDL, DML, DCL
+![5](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m8/task%208.1/img/5.PNG)
 
-![16](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m7/img/part%202/16.PNG)
+#### 6. Write program, that will show basic PC information (OS, RAM amount, HDD’s, and etc.)
 
-
-
-## Part 3 MongoDB
-
-#### 17 I have created a database. Useed the use command to connect to a new database
-
-![17](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m7/img/part%202/)
-
-#### 18. I have created a collection. Useed db.createCollection to create a collection
-
-![18](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m7/img/part%)
-
-#### 19. I have created some documents. Inserted a couple of documents into my collection
-
-![13-14.1](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m7G)
-
-#### 20. I have  used find() to list documents out.
-
-![15](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m7/imG)
+![6](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m8/task%208.1/img/6.PNG)
 
