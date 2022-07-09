@@ -1,0 +1,45 @@
+ 
+---
+- name: Install Apache and upload my WebPage
+  hosts: Dev_Server
+  become: yes
+
+# Create variables
+  vars:
+    source_dir: ../MyWebSite
+    destin_dir: /var/www/html
+
+    
+  tasks:
+  
+  - name: ping dynamic inventory
+    ping:
+
+  - name: Check Linus ditrib
+    debug : var=ansible_os_family
+
+# sudo apt update
+  - name: Update upt-get repo
+    apt: update_cache=yes force_apt_get=yes cache_valid_time=3600
+
+# sudo apt install apache
+  - name: Install Apache WebServer
+    apt: name=apache2 state=latest
+
+# Start Apache and put him in boot
+  - name: Start Apache and enable on boot
+    service: name=apache2 state=started enabled=yes
+
+  - name: Copy dir "MyWebSite" to target server
+    copy: src={{ item }}  dest={{ destin_dir }} mode=0555
+    with_fileglob: "{{ source_dir}}/*.*"
+    #loop:
+     # - "index.html"
+      #- "1.jpg"
+    notify: 
+      - Restart Apache
+
+
+  handlers:
+  - name: Restart Apache
+    service: name=apache2 state=restarted
