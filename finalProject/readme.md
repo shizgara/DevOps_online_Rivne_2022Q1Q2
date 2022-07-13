@@ -21,7 +21,7 @@
 
 #### Here is my Terraform script creating two AWS EC instances
 
-![10-11](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m7/img/part%202/10-11.PNG)
+![1](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/finalProject/img/1.png)
 
 ### Ansible
 
@@ -29,7 +29,7 @@
 
 #### Here I am using credentials from aws cli
 
-![10-11](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m7/img/part%202/10-11.PNG)
+![2](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/finalProject/img/2.png)
 
 #### I run next command to find out ip addresses of created two aws ec2 instances:
 
@@ -37,8 +37,8 @@
 
 #### Using dev_playbook installing Apache and pushing WebSite to dev server
 
-![10-11](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m7/img/part%202/10-11.PNG)
-![10-11](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m7/img/part%202/10-11.PNG)
+![3](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/finalProject/img/3.png)
+![4](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/finalProject/img/4.png)
 
 #### When job finished successful, job Triggering a new build of Deploy_Prod
 
@@ -50,25 +50,25 @@
 
 #### Using prod_playbook installing Apache and pushing WebSite to prod server
 
-![10-11](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m7/img/part%202/10-11.PNG)
+![5](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/finalProject/img/5.png)
 
 ### Docker
 
 #### Making image with artefact and pushing to docker hub
 
-![10-11](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m7/img/part%202/10-11.PNG)
+![6](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/finalProject/img/6.png)
 
 #### In Jenkins I set up build that picks up files from GitHub after receiving notifications by webhook
 
-![10-11](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m7/img/part%202/10-11.PNG)
-![10-11](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m7/img/part%202/10-11.PNG)
+![7](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/finalProject/img/7.png)
+![8](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/finalProject/img/8.png)
 
 #### We can see the result of my work on the webserver, which is configured on the AWS EC2 instances
 
-![10-11](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m7/img/part%202/10-11.PNG)
+![9](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/finalProject/img/9.png)
 
 ## That’s all
 
 ## May the force be with you
 
-![10-11](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/m7/img/part%202/10-11.PNG)
+![10](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/finalProject/img/10.png)
