@@ -55,6 +55,8 @@
 ### Docker
 
 #### Making image with artefact and pushing to docker hub
+**docker build -t shizgara/web .**
+**sudo docker push shizgara/web**
 
 ![6](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/finalProject/img/6.png)
 
