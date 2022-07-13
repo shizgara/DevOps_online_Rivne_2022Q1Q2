@@ -33,7 +33,7 @@
 
 #### I run next command to find out ip addresses of created two aws ec2 instances:
 
-#### **ansible-inventory -i aws_ec2.yaml --graph**
+##### **ansible-inventory -i aws_ec2.yaml --graph**
 
 #### Using dev_playbook installing Apache and pushing WebSite to dev server
 
@@ -44,9 +44,9 @@
 
 #### Then Ansible find out ip address of created prod server before and run playbook for prod server:
 
-#### **ansible-inventory –i aws_ec2.yaml –graph**
+##### **ansible-inventory –i aws_ec2.yaml –graph**
 
-#### **ansible-playbook –i aws_ec2.yaml prod_playbook.yaml**
+##### **ansible-playbook –i aws_ec2.yaml prod_playbook.yaml**
 
 #### Using prod_playbook installing Apache and pushing WebSite to prod server
 
@@ -55,8 +55,8 @@
 ### Docker
 
 #### Making image with artefact and pushing to docker hub
-**docker build -t shizgara/web .**
-**sudo docker push shizgara/web**
+##### docker build -t shizgara/web .
+##### sudo docker push shizgara/web
 
 ![6](https://github.com/shizgara/DevOps_online_Rivne_2022Q1Q2/blob/master/finalProject/img/6.png)
 
